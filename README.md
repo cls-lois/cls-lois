@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
 # 💫 About Me:
 🎓 Computer Science graduate specializing in Business Analytics <br>
