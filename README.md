@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+# 💫 About Me:
+🎓 Computer Science graduate specializing in Business Analytics <br>
+💡 Passionate about AI, Big Data, and Software Development <br>
+👩🏻‍💻 Always exploring new technologies and solving real-world problems
+
+
 <!--
 **cls-lois/cls-lois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
